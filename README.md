@@ -10,8 +10,8 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
-## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px> 
-Sobre Mim:
+## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px>Sobre Mim:
+
 <p align="center">Estudante de Engenharia de Software da Faculdade uniceplac. Atualmente estudo Python e PhP paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.Sou vidrado em cybersegurança e pretendo ingressar nessa área.
   
