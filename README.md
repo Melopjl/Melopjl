@@ -21,27 +21,27 @@
 
 <h3 align="left">Fale comigo!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in//)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com//)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in//)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com//)
 
 #
 
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FF00F6&color=FFF" alt="HTML5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FF00F6&color=FFF" alt="CSS3" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF00F6&color=FFF" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FF00F6&color=FFF" alt="MySQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 </div>
 
 #
 
 <h3 align="left">Atualmente estou aprendendo</h3>
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FF00F6&color=FFF" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CakePHP-000?style=for-the-badge&logo=cakephp&logoColor=FF00F6&color=FFF" alt="CakePHP" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=FF00F6&color=FFF" alt="PHP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
 </div>
 
 #
