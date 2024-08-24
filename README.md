@@ -8,6 +8,7 @@
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **Sobre Mim**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
 <br>
+
 <p align="center">Estudante de Engenharia de Software da Faculdade uniceplac. Atualmente estudo Python e PhP paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.Sou vidrado em cybersegurança e pretendo ingressar nessa área.
   
@@ -17,7 +18,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Fale comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in//)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com//)
 
@@ -25,19 +25,16 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="8" />
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="8" />
 
 #  
 
- <h3 align="left"> Atualmente estou aprendendo </h3>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" height="35" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="35"  />
+ <h3 align="left"> Atualmente estou aprendendo: </h3>
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
           
           
 #
