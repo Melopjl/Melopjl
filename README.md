@@ -54,6 +54,23 @@
   <a href="https://github.com/Melopjl/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Melopjl&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FF00F6&count_private=true" alt="Most Used Languages">
   </a>
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0033A0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0066CC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="50" rx="10" ry="10" fill="url(#grad1)" />
+  <text x="100" y="30" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">
+    UNICEPLAC
+  </text>
+  <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">
+    Faculdade
+  </text>
+</svg>
+
 </div>
 
 #
