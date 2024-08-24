@@ -6,13 +6,15 @@
 
 #
 
-## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **Sobre Mim**
+## <picture><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="50px"></picture> **Sobre Mim**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
 <br>
 
-<p align="center">Estudante de Engenharia de Software da Faculdade Uniceplac. Atualmente estudo Python e PHP paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sou vidrado em cibersegurança e pretendo ingressar nessa área.
-  
+<p align="center">
+  Estudante de Engenharia de Software da Faculdade Uniceplac. Atualmente estudo Python e PHP paralelamente.
+  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sou vidrado em cibersegurança e pretendo ingressar nessa área.
+</p>
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -22,33 +24,33 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in//)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com//)
 
+#
+
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="8" />
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FF00F6&color=FFF" alt="HTML5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FF00F6&color=FFF" alt="CSS3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF00F6&color=FFF" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FF00F6&color=FFF" alt="MySQL" /></a>
 </div>
 
-#  
+#
 
 <h3 align="left">Atualmente estou aprendendo</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35"  /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" height="35" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="35"  />
+<div align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FF00F6&color=FFF" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CakePHP-000?style=for-the-badge&logo=cakephp&logoColor=FF00F6&color=FFF" alt="CakePHP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=FF00F6&color=FFF" alt="PHP" /></a>
+</div>
 
 #
 
 <div style="text-align: center;" align="center">
-  <h3>'GitHub Status'</h3>
+  <h3>GitHub Status</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Melopjl&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=00FF00&theme=jolly" alt="GitHub stats">
-
+  
   <a href="https://github.com/Melopjl/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Melopjl&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FF00F6&count_private=true" alt="Most Used Languages">
   </a>
