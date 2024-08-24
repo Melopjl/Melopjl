@@ -26,16 +26,19 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="8" />
 
 #  
 
- <h3 align="left"> Atualmente estou aprendendo: </h3>
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+ <h3 align="left"> Atualmente estou aprendendo </h3>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" height="35" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="35"  />
           
           
 #
