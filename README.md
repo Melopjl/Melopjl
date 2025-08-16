@@ -15,34 +15,36 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+  <a href="???">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fernandakipper.com/">
+  <a href="https://??.com/">
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
 </p>
 
 ---
 
 
-### 💻 Tech Stack Highlights
+### 💻 Tech Stack
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
+</div>
 
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
+
 
 ---
 
-### 🟩 Latest Commit Energy
+### 🟩 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Melopjl&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
+  <em>Continue construindo. Um compromisso de cada vez.</em> 🟩
 </p>
