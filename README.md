@@ -43,7 +43,9 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Melopjl&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&langs_count=7&theme=react" />
 </p>
+
 
 <p align="center">
   <em>Continue construindo. Um compromisso de cada vez.</em> 🟩
