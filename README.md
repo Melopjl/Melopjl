@@ -52,4 +52,3 @@
 </p>
 
 
-![Snake animation](https://github.com/Melopjl/Melopjl/blob/output/github-contribution-grid-snake.svg)
