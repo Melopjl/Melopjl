@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="[???](https://www.linkedin.com/in/artur-melo-8493bb211/)">
+  <a href="https://www.linkedin.com/in/artur-melo-8493bb211/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://??.com/">
