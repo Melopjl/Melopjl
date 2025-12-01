@@ -7,10 +7,20 @@
 <br>
 
 <div align="center">
+  <h3>👨‍💻 About Me</h3>
+  <p>
+    🔥 Desenvolvedor BackEnd em constante evolução<br>
+     > Estudando Cibersegurança & Ethical Hacking<br>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://imgs.search.brave.com/XwhFdtPoC7oCTMsxEZaO_gEgHEXLcAM9giLWHqZHZLo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/NkpwdHN6UWdDbmtB/QUFBbS90ZXh0LXdv/cmsud2VicA" alt="Profile" style="border-radius: 20px;"/>
+        <img src="https://tenor.com/rWCukOmjCys.gif" alt="Profile" style="border-radius: 20px;"/>
       </td>
       <td width="50%">
         <div align="center">
@@ -44,5 +54,13 @@
 <br>
 
 <div align="center">
-  <p><b>🚀 Building the future with code</b></p>
+  <p><b>🚀</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![Artur GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+
 </div>
