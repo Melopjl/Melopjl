@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://tenor.com/rWCukOmjCys.gif" alt="Profile" style="border-radius: 20px;"/>
+        <img src="https://media1.tenor.com/m/zxzj-2RO-UoAAAAd/caffine-coding.gif" alt="Profile" style="border-radius: 20px;"/>
       </td>
       <td width="50%">
         <div align="center">
@@ -61,6 +61,6 @@
 
 <div align="center">
   
-  ![Artur GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+  ![Artur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melopjl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 </div>
