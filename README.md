@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi,+I'm+Artur+👋;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi,+I'm+Artur+👋;Full+Stack+Developer)
 
 </div>
 
@@ -25,14 +25,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melopjl&theme=radical&hide_border=true" />
 </div>
 
 <br>
