@@ -64,6 +64,6 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&theme=tokyonight)
 
 </div>
