@@ -1,6 +1,7 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFD166&center=true&vCenter=true&width=500&lines=Hi,+I'm+Artur+👋;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Artur+👋;Full+Stack+Developer)
+
 
 
 </div>
