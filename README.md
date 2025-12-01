@@ -15,8 +15,7 @@
       <td width="45%">
         <h3 align="center">🔥 Tech Stack</h3>
         <br>
-        
-        <div align="center" style="display: flex; flex-direction: column; gap: 8px;">
+          div align="center" style="display: flex; flex-direction: column; gap: 8px;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000" />
@@ -34,23 +33,40 @@
   <h3>📫 Connect with me</h3>
   <br>
   <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/seu-instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Melopjl/Melopjl/output/github-contribution-grid-snake.svg" alt="snake" style="filter: invert(1) hue-rotate(120deg);" />
+  <img src="https://raw.githubusercontent.com/Melopjl/Melopjl/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <div align="center">
   <br>
   <p><b>💚 Code • Create • Innovate</b></p>
 </div>
+
+
+
+
+
+
+
+
+
+
+div align="center" style="display: flex; flex-direction: column; gap: 8px;">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
+        </div>
