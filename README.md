@@ -64,6 +64,6 @@
 
 <div align="center">
   
-  ![Artur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melopjl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Artur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melopjl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 </div>
