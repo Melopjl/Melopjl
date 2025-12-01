@@ -57,13 +57,13 @@
 <br>
 
 <div align="center">
-  <p><b>🚀</b></p>
+  <p><b>🚀 Building the future with code.</b></p>
 </div>
 
 <br>
 
 <div align="center">
   
-![Artur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melopjl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 </div>
