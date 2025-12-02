@@ -12,8 +12,8 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>
-     > Desenvolvedor BackEnd em constante evolução<br>
-     > Estudando Cyber Security & Ethical Hacking<br>
+     > Desenvolvedor BackEnd em constante evolução.<br>
+     > Estudando Cyber Security & Ethical Hacking.<br>
   </p>
 </div>
 
