@@ -33,7 +33,7 @@
           <br><br>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <br><br>
-          <img src="https://img.shields.io/badge/SQL-E40000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+         <img src="https://img.shields.io/badge/SQL-E40000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMwIDMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxlbGxpcHNlIGN4PSIxNSIgY3k9IjYiIHJ4PSIxMiIgcnk9IjQiLz48cGF0aCBkPSJNMCA2djE4YzAgMi4yIDYuNyA0IDExIDQgNC4zIDAgMTEtMS44IDExLTRWNmMtMi4zIDIuMy02LjcgMy0xMSAzcy04LjctLjctMTEtM3oiLz48L3N2Zz4="/>
           <br><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         </div>
