@@ -14,6 +14,7 @@
   <p>
      > Estudante de Engenharia de Software em constante evolução.<br>
      > Estudando Cyber Security & Ethical Hacking.<br>
+     > Back-End Developer.<br>
   </p>
 </div>
 
