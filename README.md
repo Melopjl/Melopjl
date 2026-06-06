@@ -1,57 +1,14 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%">
+<img src="./assets/banner.png" width="100%"/>
 
 <br>
 
-# Artur Melo
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Artur+Melo;Software+Engineering;Cyber+Security;Backend+Developer"/>
 
-### Software Engineering Student • Cyber Security • Backend Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Cyber+Security;Backend+Development;Building+Secure+Systems"/>
+</div>
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Melopji&style=for-the-badge&color=8A2BE2"/>
-
-</div>
-
----
-
-## About
-
-```yaml
-name: Artur Melo
-
-role: Software Engineering Student
-
-focus:
-  - Backend Development
-  - Cyber Security
-  - Software Architecture
-
-currently_learning:
-  - Python
-  - Linux
-  - Ethical Hacking
-  - System Design
-
-status: Always Building
-```
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,typescript,postgres,mysql,linux,docker,git,vscode" />
-
-</div>
-
----
-
-## GitHub Statistics
 
 <div align="center">
 
@@ -61,9 +18,7 @@ status: Always Building
 
 </div>
 
----
-
-## Streak
+<br>
 
 <div align="center">
 
@@ -71,9 +26,33 @@ status: Always Building
 
 </div>
 
----
+<br>
 
-## Activity Graph
+## ⌬ ABOUT
+
+```yaml
+name: Artur Melo
+
+role: Software Engineering Student
+
+focus:
+  - Backend Development
+  - Cyber Security
+
+location: Brasilia, Brazil
+
+status: Always Building
+```
+
+## ⌬ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,typescript,postgres,mysql,linux,docker,git,vscode"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -81,9 +60,7 @@ status: Always Building
 
 </div>
 
----
-
-## Profile Summary
+<br>
 
 <div align="center">
 
@@ -101,9 +78,7 @@ status: Always Building
 
 </div>
 
----
-
-## Achievements
+<br>
 
 <div align="center">
 
@@ -111,44 +86,20 @@ status: Always Building
 
 </div>
 
----
-
-## Current Focus
-
-```txt
-Backend Development
-
-Cyber Security
-
-Python
-
-Linux
-
-System Design
-```
-
----
-
-## Connect
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Melopji">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Melopji&style=for-the-badge&color=A970FF"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-☕︎
+☕
 
-"Progress is built one commit at a time."
+"Building secure systems. Writing clean code."
 
 </div>
