@@ -8,10 +8,29 @@ Cyber Security • Backend Development
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,linux,docker,git,vscode"/>
+<img src="https://img.shields.io/badge/Python-A970FF?style=flat-square&logo=python&logoColor=white">
 
-<br><br>
+<img src="https://img.shields.io/badge/PHP-A970FF?style=flat-square&logo=php&logoColor=white">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melopji&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/MySQL-A970FF?style=flat-square&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/After%20Effects-A970FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
+
+<img src="https://img.shields.io/badge/Blender-A970FF?style=flat-square&logo=blender&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/username=Melopjj&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&icon_color=A970FF&border_color=0D1117" />
+</div>
+
+---
+
+<div align="center">
+
+> Building secure systems.
 
 </div>
