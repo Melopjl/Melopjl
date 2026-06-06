@@ -24,7 +24,7 @@ Cyber Security • Backend Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&theme=synthwave&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melopjl&theme=tokyonight">
 
 </div>
 
