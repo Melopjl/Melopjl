@@ -24,7 +24,8 @@ Cyber Security • Backend Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/username=Melopjj&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&icon_color=A970FF&border_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melopjl&layout=compact&theme=synthwave&hide_border=true" />
+
 </div>
 
 ---
