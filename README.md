@@ -1,72 +1,172 @@
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFD166&center=true&vCenter=true&width=500&lines=Hi,+I'm+Artur+👋;)
 
+<img src="./assets/banner.png" width="100%">
 
+# Artur Melo
 
+### Software Engineering Student • Cyber Security • Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Building+secure+systems;Backend+Developer;Cyber+Security+Student;Always+learning"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Melopji&style=for-the-badge&color=8A2BE2"/>
+
+</div>
+
+---
+
+# > ABOUT ME
+
+```yaml
+name: Artur Melo
+
+role: Software Engineering Student
+
+focus:
+  - Backend Development
+  - Cyber Security
+  - Software Architecture
+
+currently_learning:
+  - Python
+  - Ethical Hacking
+  - Linux
+  - System Design
+
+location: Brasília, Brazil
+
+status: Always Building
+```
+
+---
+
+# > OBJECTIVES
+
+```txt
+> Build secure and scalable systems
+
+> Study offensive security
+
+> Improve every day
+
+> Help the world through technology
+```
+
+---
+
+# > TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,ts,postgres,mysql,linux,docker,git,vscode"/>
+
+</div>
+
+---
+
+# > GITHUB STATS
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Melopji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melopji&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# > STREAK STATS
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Melopji&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# > ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Melopji&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# > TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Melopji&theme=discord&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# > PROFILE SUMMARY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melopji&theme=tokyonight"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h3>👨‍💻 About Me</h3>
-  <p>
-     > Estudante de Engenharia de Software em constante evolução.<br>
-     > Estudando Cyber Security & Ethical Hacking.<br>
-     > Back-End Developer.<br>
-  </p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melopji&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Melopji&theme=tokyonight"/>
+
 </div>
 
-<br>
+---
+
+# > FEATURED TECHNOLOGIES
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://media1.tenor.com/m/zxzj-2RO-UoAAAAd/caffine-coding.gif" alt="Profile" style="border-radius: 20px;"/>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <br><br>
-         <img src="https://img.shields.io/badge/SQL-E40000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMwIDMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxlbGxpcHNlIGN4PSIxNSIgY3k9IjYiIHJ4PSIxMiIgcnk9IjQiLz48cGF0aCBkPSJNMCA2djE4YzAgMi4yIDYuNyA0IDExIDQgNC4zIDAgMTEtMS44IDExLTRWNmMtMi4zIDIuMy02LjcgMy0xMSAzcy04LjctLjctMTEtM3oiLz48L3N2Zz4="/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://img.shields.io/badge/Python-A970FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Node.js-A970FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-A970FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-A970FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-A970FF?style=for-the-badge"/>
+
 </div>
 
-<br>
+---
+
+# > CURRENT FOCUS
+
+```txt
+Backend Development
+
+Cyber Security
+
+Linux
+
+Python
+
+System Design
+```
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/artur-melo-8493bb211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/arturmxs">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:contato.arturmelo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
-<br>
+☕
 
-<div align="center">
-  <p><b>🚀 Building the future with code.</b></p>
-</div>
-
-<br>
-
-<div align="center">
-  
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melopjl&theme=tokyonight)
+"Progress is built one commit at a time."
 
 </div>
