@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png" alt="Banner">
 <img width="100%" src="./assets/header.gif" alt="Artur Melo • Cyber Security • Backend Development">
 
 <br><br>
